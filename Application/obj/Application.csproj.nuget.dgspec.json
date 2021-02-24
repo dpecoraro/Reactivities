@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\Application.csproj": {}
+    "/home/demetrius/RiderProjects/Reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\Application.csproj": {
+    "/home/demetrius/RiderProjects/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "/home/demetrius/RiderProjects/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\obj\\",
+        "projectPath": "/home/demetrius/RiderProjects/Reactivities/Application/Application.csproj",
+        "packagesPath": "/home/demetrius/.nuget/packages/",
+        "outputPath": "/home/demetrius/RiderProjects/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\demetrius.pecoraro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/demetrius/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nugetserver.live.totvs.com.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Persistence\\Persistence.csproj"
+              "/home/demetrius/RiderProjects/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/home/demetrius/RiderProjects/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -63,33 +56,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\Domain.csproj": {
+    "/home/demetrius/RiderProjects/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "/home/demetrius/RiderProjects/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\obj\\",
+        "projectPath": "/home/demetrius/RiderProjects/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/home/demetrius/.nuget/packages/",
+        "outputPath": "/home/demetrius/RiderProjects/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\demetrius.pecoraro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/demetrius/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nugetserver.live.totvs.com.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,41 +108,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Persistence\\Persistence.csproj": {
+    "/home/demetrius/RiderProjects/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "/home/demetrius/RiderProjects/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "/home/demetrius/RiderProjects/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/home/demetrius/.nuget/packages/",
+        "outputPath": "/home/demetrius/RiderProjects/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\demetrius.pecoraro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/demetrius/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nugetserver.live.totvs.com.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\Domain.csproj"
+              "/home/demetrius/RiderProjects/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/demetrius/RiderProjects/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -191,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

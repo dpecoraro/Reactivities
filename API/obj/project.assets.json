@@ -1307,40 +1307,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/demetrius/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "/home/demetrius/RiderProjects/Reactivities/API/API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\obj\\",
+      "projectPath": "/home/demetrius/RiderProjects/Reactivities/API/API.csproj",
+      "packagesPath": "/home/demetrius/.nuget/packages/",
+      "outputPath": "/home/demetrius/RiderProjects/Reactivities/API/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\demetrius.pecoraro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/demetrius/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nugetserver.live.totvs.com.br/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Application\\Application.csproj"
+            "/home/demetrius/RiderProjects/Reactivities/Application/Application.csproj": {
+              "projectPath": "/home/demetrius/RiderProjects/Reactivities/Application/Application.csproj"
             }
           }
         }
@@ -1384,7 +1376,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }
