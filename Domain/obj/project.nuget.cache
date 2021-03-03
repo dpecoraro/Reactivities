@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cEcn146AsCCyQZF3PZOpS50LjpJTMGxffW6kgPEPrTMRsSdtDrwmZGOrfkQP4tBnGBNf0H8WW3CqqYjhdHLHbw==",
+  "dgSpecHash": "/CxCq/Z0mnUjoyie10g2xd50rreQcOPr5HSogOxmaxNIlB+TwyBwbmqLcbSkJo2F1SmBbMbX/z+wycGgRBetXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "/home/demetrius/RiderProjects/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
