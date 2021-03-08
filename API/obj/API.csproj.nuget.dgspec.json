@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

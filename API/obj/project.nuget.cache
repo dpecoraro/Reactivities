@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GuBVpdp9P5XEpHbh4Za9Z2/2tOoc0XMzQrwHys1ddkRCdqDc/4j0JM0nrLz2VkaAQ80EdyqzTU4IKrk7Z1bTTg==",
+  "dgSpecHash": "t/r+71EBC+7SfYk4X4kbuAWQMxFFYsPrJFxSL0zvAwbdJVmUpT9V86vhlcGvBbdE9p7yjvreyJZDauG3nq1w6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\demetrius.pecoraro\\Documents\\POC\\DOTNET\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
