@@ -132,3 +132,6 @@ C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\obj\Debug\net5
 C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\obj\Debug\net5.0\API.csproj.CopyComplete
 C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\demetrius.pecoraro\Documents\POC\DOTNET\Reactivities\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
